@@ -1,0 +1,31 @@
+{
+    "workbench.colorTheme": "Default High Contrast",
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "explorer.confirmDragAndDrop": false,
+    "editor.accessibilitySupport": "off",
+    "workbench.iconTheme": "vscode-icons",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "window.zoomLevel": -1,
+
+
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.activityBar.visible": true,
+    "editor.minimap.enabled": false,
+    "go.testOnSave": true,
+    "go.lintOnSave": "file",
+    "go.formatTool": "goimports",
+    "go.testFlags": ["-v"],
+    "go.autocompleteUnimportedPackages": true,
+    "[go]": {
+        "editor.insertSpaces": false,
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        }
+    }
+}
